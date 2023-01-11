@@ -1,0 +1,148 @@
+*{
+     margin: 0px;
+     padding: 0px;
+}
+
+body{
+    font-family: 'Arimo', sans-serif;
+    text-align: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#main{
+    margin-left: 500px;
+    margin-top: 150px;
+    width: 400px;
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    background-color: white;
+    box-shadow: 1px 1px 1px 1px grey;
+}
+
+#img1{
+    width: 140px;
+    height: 80px;
+}
+
+#img2{
+    width: 12px;
+    height: 12px;
+    position: relative;
+    left: -71px;
+    bottom: -4.5px;
+}
+
+#img3{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 0px;
+    bottom: -20px;
+}
+
+
+#p1{
+    font-size: 12px ;
+}
+
+#a1{
+    font-size: 12px;
+    position: relative;
+    left: 72px;
+    top: -17px;
+    color: #005DA6;
+}
+
+#a2{
+    margin: 0px;
+    padding: 0px;
+    font-size: 12px;
+    position: relative;
+    left: 0px;
+    bottom: 15px;
+    color: #005DA6;
+}
+#a3{
+    position: relative;
+    left: 72px;
+    top: -17px;
+}
+
+#ids{
+    border: 0px solid;
+}
+
+#b1{
+    border-radius: 0px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 15px;
+    background: #0f82cf;
+    padding: 10px 35px 10px 35px;
+    border: none;
+    position: relative;
+    left: 250px;
+    bottom: 0px;
+}
+
+#b1:hover {
+    background: #007bd9;
+  }
+
+#box1{
+    margin-left: 450px;
+    height: 60px;
+    margin-top: 22px;
+    width: 452px;
+    background-color: white;
+    box-shadow: 1px 1px 1px 1px grey;
+    position: relative;
+    left: 49px;
+}  
+
+#b2{
+    border-radius: 0px;
+    font-family: Arial;
+    font-size: 15px;
+    background-color: white;
+    
+    border: none;
+   
+}
+
+#box1:hover {
+    background: rgb(252, 248, 248);
+  }
+
+#p3{
+    position: relative;
+    left: 70px;
+    bottom: 0px;
+}  
+
+#box2{
+    margin-top: 70px;
+    margin-left: 1120px;
+    font-size: 14px;
+    position: relative;
+    left: 150px;
+    bottom: -30px;
+}
+
+#a3{
+   color: black;
+}
+#a4{
+   color: black;
+   position: relative;
+    left: 30px;
+}
+#a5{
+  color: black;
+  position: relative;
+    left: 30px;
+}
+
